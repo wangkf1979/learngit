@@ -6,6 +6,7 @@ package com.ca;
 /**
  * @author wangkf1979
  * This is a comments!
+ * version2
  *
  */
 public class DemoClass {
